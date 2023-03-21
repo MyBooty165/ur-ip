@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.ip-address-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  font-size: 2rem;
+  font-weight: bold;
+}
